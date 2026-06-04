@@ -43,6 +43,27 @@ Optimeeritud failid:
 
 Järeltöötlus: PNG fail optimeeritud veebi jaoks WebP ja AVIF formaati.
 
+### Hero Darkmode.png
+
+Otstarve: avalehe tume hero-taust / dark mode banner.
+
+Prompt:
+
+```text
+Dark version of the Hero that i can use for dark mode on my site (home background, landscape 16:9)
+
+A cozy small-batch coffee roastery scene: a pour-over brewing station, a few
+burlap bean sacks, a wall shelf with coffee bags. Wide horizontal banner with
+large EMPTY cream space on the LEFT third for a headline. Lavender-dominant.
+```
+
+Optimeeritud failid:
+
+- `optimized/hero-dark.webp`
+- `optimized/hero-dark.avif`
+
+Järeltöötlus: PNG fail optimeeritud veebi jaoks WebP ja AVIF formaati.
+
 ### Light Roast.png
 
 Otstarve: kohvisordi galerii/detaillehe pilt.

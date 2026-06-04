@@ -16,6 +16,7 @@ Taaniel Vananurm MM-23
 | Algne fail | WebP | AVIF | Otstarve |
 | --- | --- | --- | --- |
 | `original/Hero.png` | `optimized/hero.webp` | `optimized/hero.avif` | Avalehe hero-taust |
+| `original/Hero Darkmode.png` | `optimized/hero-dark.webp` | `optimized/hero-dark.avif` | Avalehe tume hero-taust |
 | `original/Light Roast.png` | `optimized/light-roast.webp` | `optimized/light-roast.avif` | Kohvisordi pilt |
 | `original/Medium Roast.png` | `optimized/medium-roast.webp` | `optimized/medium-roast.avif` | Kohvisordi pilt |
 | `original/Medium Dark Roast.png` | `optimized/medium-dark-roast.webp` | `optimized/medium-dark-roast.avif` | Kohvisordi pilt |
@@ -24,4 +25,3 @@ Taaniel Vananurm MM-23
 | `original/Limited Roast.png` | `optimized/limited-roast.webp` | `optimized/limited-roast.avif` | Limited kohvisordi pilt |
 | `original/Pattern.png` | `optimized/pattern.webp` | `optimized/pattern.avif` | Taustamuster |
 | `original/Mascot.png` | `optimized/mascot.webp` | `optimized/mascot.avif` | Maskott |
-
